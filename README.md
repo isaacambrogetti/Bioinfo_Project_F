@@ -11,3 +11,6 @@ make your folder accessible on your IBU student account so everyone can access i
 - F24c1  /data/users/student10
 - J44c1  /data/users/student07
 - M56c1  /data/users/student35
+
+Document that summirize the different candidates : 
+https://docs.google.com/document/d/1hajHaNA2xPuqozHOgDlO1HliwpdW2S5aSGoMAu_H_tU/edit?usp=sharing
