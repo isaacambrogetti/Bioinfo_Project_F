@@ -37,7 +37,7 @@ Find gene, look for it in ensembl.org, read about it, open its UniProtKB page, c
 
 
 
-## Methods
+## Methods
 1. ... steps to obtain the vcf file ...
 - run the awk command
 - find the genes in IGV and check if also the wt has the mutation
@@ -51,6 +51,6 @@ Find gene, look for it in ensembl.org, read about it, open its UniProtKB page, c
 - verify if the mutation occurs in a functional domain
 
 
-### To ask!
+### To ask!
 > If the mutation is present in the wt and in one strain, would we consider the other strain mutated in that point? Should we check what kind of mutation is it to understand whether this might have influenced the wt growth?
 > ask if the presentation works like that
