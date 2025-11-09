@@ -24,9 +24,7 @@ awk '($0 !~ /^#/ && $6 >= 10 && $8 ~ /ANN=[^|]*\|(stop_gained|frameshift_variant
 (Professor used the tools not a script)
 > ⚠️  __Check if the mutation is homozygous, if not there’s a bug and you better ignore that entry.__
 
-### Pipeline
-Find gene, look for it in ensembl.org, read about it, open its UniProtKB page, check for interactions, open its BioGrid page and check for interactions there (Ctrl+F “MAP” -> look for MAPK interactions). Consider that the ones revealed by low throughput are the best, the others are not very precise.
-
+### F24c1 results
 
 | Chr | location | mutation | gene name | prot name | description |
 |----------|----------|----------|----------|----------|----------|
