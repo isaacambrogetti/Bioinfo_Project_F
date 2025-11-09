@@ -34,3 +34,23 @@ Find gene, look for it in ensembl.org, read about it, open its UniProtKB page, c
 | VIII   | 275671   | stop_gained   | YHR084W | STE12 | Transcription factor that is activated by a MAPK signaling cascade; activates genes involved in mating or pseudohyphal/invasive growth pathways; cooperates with Tec1p transcription factor to regulate genes specific for invasive growth. Proved to be interacting with DIG1: MAP kinase-responsive inhibitor of the Ste12p transcription factor; involved in the regulation of mating-specific genes the invasive growth pathway; related regulators Dig1p and Dig2p bind to Ste12p. |
 | X   | 639997   | frameshift_variant   | YJR115W | - | Putative protein of unknown function; YJR115W has a paralog, ECM13, that arose from the whole genome duplication, which also has unknown function. |
 | XIV   | 783539   | start_lost   | YNR077C | - | Protein of unknown function, abundance changes with carbon source |
+
+
+
+## Methods
+1. ... steps to obtain the vcf file ...
+- run the awk command
+- find the genes in IGV and check if also the wt has the mutation
+- get the gene name from IGV
+- search the gene name on ENSEMBL VEP
+- obtain information on the gene and its product, and the location of the mutation (verify if the mutation is annotated)
+- search the protein in UniProtKB
+- check the interactions it makes in Biogrid by following the link in the interaction section
+- see if the interaction with MAPK related proteins are verified with low-throughput
+- go back to UniProtKB in the Features viewer (if non stop_gained only)
+- verify if the mutation occurs in a functional domain
+
+
+### To ask!
+> If the mutation is present in the wt and in one strain, would we consider the other strain mutated in that point? Should we check what kind of mutation is it to understand whether this might have influenced the wt growth?
+> ask if the presentation works like that
