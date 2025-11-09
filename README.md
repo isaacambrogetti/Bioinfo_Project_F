@@ -51,7 +51,7 @@ awk '($0 !~ /^#/ && $6 >= 10 && $8 ~ /ANN=[^|]*\|(stop_gained|frameshift_variant
 
 For Ste12 -> open biogrid network visualization, choose only physical interactions with at least 5 proofs, keep nearest neighbours.
 
-![Ste12 network](Bioinfo_Project_F/NetworkSte12.png)
+![Ste12 network](networkSTE12.png)
 
 
 
