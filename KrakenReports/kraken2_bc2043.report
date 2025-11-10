@@ -1,0 +1,70 @@
+  2.67	2931	2931	U	0	unclassified
+ 97.33	106648	1	R	1	root
+ 97.30	106617	11	R1	131567	  cellular organisms
+ 97.29	106604	38	D	2	    Bacteria
+ 97.25	106565	0	D1	1783272	      Terrabacteria group
+ 97.25	106565	8	P	201174	        Actinobacteria
+ 97.24	106557	71	C	1760	          Actinobacteria
+ 97.18	106486	0	O	85011	            Streptomycetales
+ 97.18	106486	27	F	2062	              Streptomycetaceae
+ 97.15	106459	4641	G	1883	                Streptomyces
+ 90.41	99069	1999	G1	2593676	                  unclassified Streptomyces
+ 88.23	96682	96682	S	2202000	                    Streptomyces sp. NEAU-S7GS2
+  0.30	332	332	S	1938841	                    Streptomyces sp. 2323.1
+  0.05	52	52	S	349971	                    Streptomyces sp. FR1
+  0.00	2	2	S	862751	                    Streptomyces sp. SirexAA-E
+  0.00	1	1	S	1851167	                    Streptomyces sp. 11-1-2
+  0.00	1	1	S	465541	                    Streptomyces sp. Mg1
+  2.12	2318	2318	S	47763	                  Streptomyces lydicus
+  0.14	150	2	S	1912	                  Streptomyces hygroscopicus
+  0.14	148	148	S1	264445	                    Streptomyces hygroscopicus subsp. limoneus
+  0.11	120	120	S	58346	                  Streptomyces platensis
+  0.06	61	61	S	1355015	                  Streptomyces pluripotens
+  0.04	45	45	S	68249	                  Streptomyces pactum
+  0.02	20	0	S	68280	                  Streptomyces violaceusniger
+  0.02	20	20	S1	653045	                    Streptomyces violaceusniger Tu 4113
+  0.01	16	16	S	1535768	                  Streptomyces lunaelactis
+  0.01	12	12	S	1967	                  Streptomyces kanamyceticus
+  0.01	7	7	S	2049881	                  Streptomyces dengpaensis
+  0.00	1	0	P	1224	      Proteobacteria
+  0.00	1	0	C	1236	        Gammaproteobacteria
+  0.00	1	0	O	135614	          Xanthomonadales
+  0.00	1	0	F	32033	            Xanthomonadaceae
+  0.00	1	0	G	40323	              Stenotrophomonas
+  0.00	1	0	G1	196198	                unclassified Stenotrophomonas
+  0.00	1	1	S	1904944	                  Stenotrophomonas sp. LM091
+  0.00	2	0	D	2759	    Eukaryota
+  0.00	2	0	D1	33154	      Opisthokonta
+  0.00	2	0	K	33208	        Metazoa
+  0.00	2	0	K1	6072	          Eumetazoa
+  0.00	2	0	K2	33213	            Bilateria
+  0.00	2	0	K3	33511	              Deuterostomia
+  0.00	2	0	P	7711	                Chordata
+  0.00	2	0	P1	89593	                  Craniata
+  0.00	2	0	P2	7742	                    Vertebrata
+  0.00	2	0	P3	7776	                      Gnathostomata
+  0.00	2	0	P4	117570	                        Teleostomi
+  0.00	2	0	P5	117571	                          Euteleostomi
+  0.00	2	0	P6	8287	                            Sarcopterygii
+  0.00	2	0	P7	1338369	                              Dipnotetrapodomorpha
+  0.00	2	0	P8	32523	                                Tetrapoda
+  0.00	2	0	P9	32524	                                  Amniota
+  0.00	2	0	C	40674	                                    Mammalia
+  0.00	2	0	C1	32525	                                      Theria
+  0.00	2	0	C2	9347	                                        Eutheria
+  0.00	2	0	C3	1437010	                                          Boreoeutheria
+  0.00	2	0	C4	314146	                                            Euarchontoglires
+  0.00	2	0	O	9443	                                              Primates
+  0.00	2	0	O1	376913	                                                Haplorrhini
+  0.00	2	0	O2	314293	                                                  Simiiformes
+  0.00	2	0	O3	9526	                                                    Catarrhini
+  0.00	2	0	O4	314295	                                                      Hominoidea
+  0.00	2	0	F	9604	                                                        Hominidae
+  0.00	2	0	F1	207598	                                                          Homininae
+  0.00	2	0	G	9605	                                                            Homo
+  0.00	2	2	S	9606	                                                              Homo sapiens
+  0.03	28	0	D	10239	  Viruses
+  0.03	28	0	F	10508	    Adenoviridae
+  0.03	28	0	G	10509	      Mastadenovirus
+  0.03	28	28	S	129951	        Human mastadenovirus C
+  0.00	2	2	R1	28384	  other sequences

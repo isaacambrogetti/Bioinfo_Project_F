@@ -1,0 +1,60 @@
+  3.07	7450	7450	U	0	unclassified
+ 96.93	234873	12	R	1	root
+ 96.92	234861	12	R1	131567	  cellular organisms
+ 96.92	234849	682	D	2	    Bacteria
+ 96.63	234165	69	D1	1783272	      Terrabacteria group
+ 96.60	234096	17	P	201174	        Actinobacteria
+ 96.60	234079	2981	C	1760	          Actinobacteria
+ 95.37	231098	0	O	85011	            Streptomycetales
+ 95.37	231098	351	F	2062	              Streptomycetaceae
+ 95.22	230747	181203	G	1883	                Streptomyces
+ 16.89	40922	40922	S	1932	                  Streptomyces tendae
+  2.17	5254	2299	G1	2593676	                  unclassified Streptomyces
+  0.86	2093	2093	S	2203204	                    Streptomyces sp. WAC 01438
+  0.13	305	305	S	1561022	                    Streptomyces sp. CCM_MD2014
+  0.10	238	238	S	2563602	                    Streptomyces sp. SS52
+  0.07	181	181	S	1841249	                    Streptomyces sp. RTd22
+  0.05	114	114	S	862751	                    Streptomyces sp. SirexAA-E
+  0.00	12	12	S	1476754	                    Streptomyces sp. 604F
+  0.00	4	4	S	2305221	                    Streptomyces sp. KPB2
+  0.00	4	4	S	1851167	                    Streptomyces sp. 11-1-2
+  0.00	2	2	S	1436084	                    Streptomyces sp. F12
+  0.00	1	1	S	1442032	                    Streptomyces sp. Z022
+  0.00	1	1	S	2676871	                    Streptomyces sp. Tu 2975
+  0.38	919	0	S	1912	                  Streptomyces hygroscopicus
+  0.38	919	919	S1	264445	                    Streptomyces hygroscopicus subsp. limoneus
+  0.28	677	677	S	68203	                  Streptomyces fungicidicus
+  0.18	432	432	S	1885	                  Streptomyces actuosus
+  0.12	296	296	S	47716	                  Streptomyces olivaceus
+  0.09	210	210	S	2049881	                  Streptomyces dengpaensis
+  0.07	161	0	S	67581	                  Streptomyces viridosporus
+  0.07	161	161	S1	665577	                    Streptomyces viridosporus T7A
+  0.05	128	0	G1	1477431	                  Streptomyces albidoflavus group
+  0.05	128	128	S	1886	                    Streptomyces albidoflavus
+  0.05	125	125	S	1827580	                  Streptomyces nigra
+  0.04	88	88	S	1904616	                  Streptomyces fodineus
+  0.04	86	86	S	48665	                  Streptomyces viridifaciens
+  0.03	73	73	S	67345	                  Streptomyces prasinus
+  0.02	41	41	S	1355015	                  Streptomyces pluripotens
+  0.01	31	31	S	1437453	                  Streptomyces leeuwenhoekii
+  0.01	27	27	S	1690221	                  Streptomyces spongiicola
+  0.01	25	25	S	285570	                  Streptomyces asterosporus
+  0.01	21	21	S	28894	                  Streptomyces nitrosporeus
+  0.01	13	13	S	68209	                  Streptomyces globosus
+  0.00	5	5	S	408015	                  Streptomyces xiamenensis
+  0.00	4	0	S	42684	                  Streptomyces collinus
+  0.00	4	4	S1	1214242	                    Streptomyces collinus Tu 365
+  0.00	3	3	S	1783515	                  Streptomyces qaidamensis
+  0.00	2	2	S	40318	                  Streptomyces nodosus
+  0.00	1	1	S	1890	                  Streptomyces antibioticus
+  0.00	2	0	P	1224	      Proteobacteria
+  0.00	2	0	C	1236	        Gammaproteobacteria
+  0.00	1	0	O	91347	          Enterobacterales
+  0.00	1	0	F	1903411	            Yersiniaceae
+  0.00	1	0	G	613	              Serratia
+  0.00	1	1	S	614	                Serratia liquefaciens
+  0.00	1	0	O	135622	          Alteromonadales
+  0.00	1	0	F	267890	            Shewanellaceae
+  0.00	1	0	G	22	              Shewanella
+  0.00	1	0	G1	196818	                unclassified Shewanella
+  0.00	1	1	S	2029986	                  Shewanella sp. WE21

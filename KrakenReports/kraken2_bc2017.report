@@ -1,0 +1,41 @@
+  0.38	849	849	U	0	unclassified
+ 99.62	225457	0	R	1	root
+ 99.62	225457	1	R1	131567	  cellular organisms
+ 99.62	225456	60	D	2	    Bacteria
+ 99.60	225395	8	D1	1783272	      Terrabacteria group
+ 99.59	225387	0	P	201174	        Actinobacteria
+ 99.59	225387	131	C	1760	          Actinobacteria
+ 99.54	225256	0	O	85011	            Streptomycetales
+ 99.54	225256	29	F	2062	              Streptomycetaceae
+ 99.52	225226	177029	G	1883	                Streptomyces
+ 11.02	24930	14665	G1	2593676	                  unclassified Streptomyces
+  2.17	4904	4904	S	565560	                    Streptomyces sp. SM17
+  0.94	2128	2128	S	1476754	                    Streptomyces sp. 604F
+  0.55	1250	1250	S	206662	                    Streptomyces sp. FR-008
+  0.51	1153	1153	S	2692235	                    Streptomyces sp. GF20
+  0.09	209	209	S	1881022	                    Streptomyces sp. 2114.2
+  0.09	200	200	S	1223307	                    Streptomyces sp. PVA 94-07
+  0.06	139	139	S	2582831	                    Streptomyces sp. SUK 48
+  0.04	101	101	S	2705439	                    Streptomyces sp. S4.7
+  0.04	95	95	S	862751	                    Streptomyces sp. SirexAA-E
+  0.03	78	78	S	405041	                    Streptomyces sp. HK1
+  0.00	8	8	S	2305221	                    Streptomyces sp. KPB2
+  9.81	22198	7475	G1	1477431	                  Streptomyces albidoflavus group
+  6.09	13793	13793	S	1886	                    Streptomyces albidoflavus
+  0.41	930	930	S	42239	                    Streptomyces sampsonii
+  0.46	1048	1048	S	188770	                  Streptomyces koyangensis
+  0.01	15	0	S	1169025	                  Streptomyces pratensis
+  0.01	15	15	S1	591167	                    Streptomyces pratensis ATCC 33331
+  0.00	5	5	S	1932	                  Streptomyces tendae
+  0.00	1	0	S	68192	                  Streptomyces cyaneogriseus
+  0.00	1	1	S1	477245	                    Streptomyces cyaneogriseus subsp. noncyanogenus
+  0.00	1	0	G	2063	                Kitasatospora
+  0.00	1	1	S	68173	                  Kitasatospora albolonga
+  0.00	1	0	D1	1783270	      FCB group
+  0.00	1	0	D2	68336	        Bacteroidetes/Chlorobi group
+  0.00	1	0	P	976	          Bacteroidetes
+  0.00	1	0	C	117743	            Flavobacteriia
+  0.00	1	0	O	200644	              Flavobacteriales
+  0.00	1	0	F	49546	                Flavobacteriaceae
+  0.00	1	0	G	59732	                  Chryseobacterium
+  0.00	1	1	S	421525	                    Chryseobacterium haifense

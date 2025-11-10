@@ -1,0 +1,117 @@
+  3.09	5970	5970	U	0	unclassified
+ 96.91	187031	2	R	1	root
+ 96.91	187029	35	R1	131567	  cellular organisms
+ 96.88	186987	464	D	2	    Bacteria
+ 96.64	186520	22	D1	1783272	      Terrabacteria group
+ 96.63	186498	6	P	201174	        Actinobacteria
+ 96.63	186492	1061	C	1760	          Actinobacteria
+ 96.07	185415	0	O	85011	            Streptomycetales
+ 96.07	185415	78	F	2062	              Streptomycetaceae
+ 96.03	185337	95078	G	1883	                Streptomyces
+ 41.83	80735	80735	S	1783515	                  Streptomyces qaidamensis
+  2.75	5309	3758	G1	2593676	                  unclassified Streptomyces
+  0.33	641	641	S	2072505	                    Streptomyces sp. Go-475
+  0.11	218	218	S	2496836	                    Streptomyces sp. MK-45
+  0.11	218	218	S	2662065	                    Streptomyces sp. SYP-A7193
+  0.06	115	115	S	646637	                    Streptomyces sp. M2
+  0.05	97	97	S	2203204	                    Streptomyces sp. WAC 01438
+  0.04	80	80	S	1882757	                    Streptomyces sp. 3214.6
+  0.04	70	70	S	1442032	                    Streptomyces sp. Z022
+  0.03	53	53	S	2202000	                    Streptomyces sp. NEAU-S7GS2
+  0.01	25	25	S	1851167	                    Streptomyces sp. 11-1-2
+  0.01	19	19	S	465541	                    Streptomyces sp. Mg1
+  0.00	6	6	S	862751	                    Streptomyces sp. SirexAA-E
+  0.00	4	4	S	2653200	                    Streptomyces sp. GY16
+  0.00	2	2	S	2585716	                    Streptomyces sp. C8S0
+  0.00	2	2	S	1725411	                    Streptomyces sp. CdTB01
+  0.00	1	1	S	2695266	                    Streptomyces sp. HM190
+  0.72	1393	212	S	1969	                  Streptomyces chartreusis
+  0.61	1181	1181	S1	1079985	                    Streptomyces chartreusis NRRL 3882
+  0.54	1035	1035	S	73044	                  Streptomyces seoulensis
+  0.49	946	946	S	116188	                  Streptomyces coeruleorubidus
+  0.12	233	233	S	1915	                  Streptomyces lincolnensis
+  0.06	123	0	S	42684	                  Streptomyces collinus
+  0.06	123	123	S1	1214242	                    Streptomyces collinus Tu 365
+  0.06	110	110	S	1977088	                  Streptomyces ficellus
+  0.05	103	0	S	33903	                  Streptomyces avermitilis
+  0.05	103	103	S1	227882	                    Streptomyces avermitilis MA-4680 = NBRC 14893
+  0.05	98	0	G1	629295	                  Streptomyces griseus group
+  0.05	98	0	G2	1482596	                    Streptomyces griseus subgroup
+  0.05	98	0	S	1911	                      Streptomyces griseus
+  0.05	98	0	S1	67263	                        Streptomyces griseus subsp. griseus
+  0.05	98	98	S2	455632	                          Streptomyces griseus subsp. griseus NBRC 13350
+  0.02	31	25	S	1912	                  Streptomyces hygroscopicus
+  0.00	6	0	S1	311982	                    Streptomyces hygroscopicus subsp. jinggangensis
+  0.00	6	6	S2	1133850	                      Streptomyces hygroscopicus subsp. jinggangensis 5008
+  0.01	28	0	S	67581	                  Streptomyces viridosporus
+  0.01	28	28	S1	665577	                    Streptomyces viridosporus T7A
+  0.01	22	22	S	2548456	                  Streptomyces aquilus
+  0.01	21	21	S	38300	                  Streptomyces pristinaespiralis
+  0.01	21	21	S	33899	                  Streptomyces galilaeus
+  0.00	9	9	S	54571	                  Streptomyces venezuelae
+  0.00	9	0	S	1950	                  Streptomyces peucetius
+  0.00	9	0	S1	55158	                    Streptomyces peucetius subsp. caesius
+  0.00	9	9	S2	316280	                      Streptomyces peucetius subsp. caesius ATCC 27952
+  0.00	9	9	S	2049881	                  Streptomyces dengpaensis
+  0.00	7	7	S	67304	                  Streptomyces griseorubiginosus
+  0.00	6	6	S	67345	                  Streptomyces prasinus
+  0.00	3	3	S	285570	                  Streptomyces asterosporus
+  0.00	3	3	S	1827580	                  Streptomyces nigra
+  0.00	2	0	S	1930	                  Streptomyces scabiei
+  0.00	2	2	S1	680198	                    Streptomyces scabiei 87.22
+  0.00	1	1	S	1437453	                  Streptomyces leeuwenhoekii
+  0.00	1	0	G1	1477431	                  Streptomyces albidoflavus group
+  0.00	1	1	S	1886	                    Streptomyces albidoflavus
+  0.00	1	0	S	1038928	                  Streptomyces xinghaiensis
+  0.00	1	1	S1	1038929	                    Streptomyces xinghaiensis S187
+  0.01	15	0	O	85010	            Pseudonocardiales
+  0.01	15	0	F	2070	              Pseudonocardiaceae
+  0.01	15	0	G	1813	                Amycolatopsis
+  0.01	15	0	G1	2618356	                  unclassified Amycolatopsis
+  0.01	15	15	S	2653857	                    Amycolatopsis sp. YIM 10
+  0.00	1	0	O	85008	            Micromonosporales
+  0.00	1	1	F	28056	              Micromonosporaceae
+  0.00	3	0	P	1224	      Proteobacteria
+  0.00	3	0	C	1236	        Gammaproteobacteria
+  0.00	2	0	O	91347	          Enterobacterales
+  0.00	2	0	F	543	            Enterobacteriaceae
+  0.00	1	0	G	570	              Klebsiella
+  0.00	1	0	S	573	                Klebsiella pneumoniae
+  0.00	1	1	S1	72407	                  Klebsiella pneumoniae subsp. pneumoniae
+  0.00	1	0	G	83654	              Leclercia
+  0.00	1	1	S	83655	                Leclercia adecarboxylata
+  0.00	1	0	O	135622	          Alteromonadales
+  0.00	1	0	F	267890	            Shewanellaceae
+  0.00	1	0	G	22	              Shewanella
+  0.00	1	0	G1	196818	                unclassified Shewanella
+  0.00	1	1	S	2029986	                  Shewanella sp. WE21
+  0.00	7	0	D	2759	    Eukaryota
+  0.00	7	0	D1	33154	      Opisthokonta
+  0.00	7	0	K	33208	        Metazoa
+  0.00	7	0	K1	6072	          Eumetazoa
+  0.00	7	0	K2	33213	            Bilateria
+  0.00	7	0	K3	33511	              Deuterostomia
+  0.00	7	0	P	7711	                Chordata
+  0.00	7	0	P1	89593	                  Craniata
+  0.00	7	0	P2	7742	                    Vertebrata
+  0.00	7	0	P3	7776	                      Gnathostomata
+  0.00	7	0	P4	117570	                        Teleostomi
+  0.00	7	0	P5	117571	                          Euteleostomi
+  0.00	7	0	P6	8287	                            Sarcopterygii
+  0.00	7	0	P7	1338369	                              Dipnotetrapodomorpha
+  0.00	7	0	P8	32523	                                Tetrapoda
+  0.00	7	0	P9	32524	                                  Amniota
+  0.00	7	0	C	40674	                                    Mammalia
+  0.00	7	0	C1	32525	                                      Theria
+  0.00	7	0	C2	9347	                                        Eutheria
+  0.00	7	0	C3	1437010	                                          Boreoeutheria
+  0.00	7	0	C4	314146	                                            Euarchontoglires
+  0.00	7	0	O	9443	                                              Primates
+  0.00	7	0	O1	376913	                                                Haplorrhini
+  0.00	7	0	O2	314293	                                                  Simiiformes
+  0.00	7	0	O3	9526	                                                    Catarrhini
+  0.00	7	0	O4	314295	                                                      Hominoidea
+  0.00	7	0	F	9604	                                                        Hominidae
+  0.00	7	0	F1	207598	                                                          Homininae
+  0.00	7	0	G	9605	                                                            Homo
+  0.00	7	7	S	9606	                                                              Homo sapiens
